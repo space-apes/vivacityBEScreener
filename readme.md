@@ -7,7 +7,6 @@
 - create .env file with fields set
   - EXPRESS_URL=
   - EXPRESS_PORT=
-  - 
   - POSTGRES_DATABASE=
   - POSTGRES_USER=
   - POSTGRES_PASSWORD=
